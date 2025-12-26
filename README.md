@@ -73,7 +73,7 @@ Item and profile images are stored securely in **Amazon S3** – optimized for s
 
 ## 🧑‍💻 Developer
 
-**👋 Hey there! I'm Madhav Reddy,**  
+**👋 Hey there! I'm Madhava Reddy,**  
 a passionate full-stack developer driven by impactful ideas. Rentify was crafted as a final year project but continues to grow into something more.
 
 
