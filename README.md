@@ -73,10 +73,9 @@ Item and profile images are stored securely in **Amazon S3** – optimized for s
 
 ## 🧑‍💻 Developer
 
-**👋 Hey there! I'm Shekar Banda,**  
+**👋 Hey there! I'm Madhav Reddy,**  
 a passionate full-stack developer driven by impactful ideas. Rentify was crafted as a final year project but continues to grow into something more.
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shekar-banda-736815258) | 💻 Portfolio: [https://shekarbandaportfolio.netlify.app]
 
 ---
 
